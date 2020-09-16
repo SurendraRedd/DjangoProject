@@ -1,2 +1,5 @@
 # DjangoProject
-This repository contains the details of the Django Project.
+Sample Django Project
+
+### Setup in windows
+![](/Images/WindowsSteps.png)
