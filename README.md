@@ -1,10 +1,14 @@
 # DjangoProject
-This Repository contains the detailed Step by Step Approach of Warehouse Management System.
 
-### 1. Setup in Windows
+This Repository contains the detailed Step by Step Approach of Warehouse Management System Project created using [Python](https://www.python.org/), [Django](https://www.djangoproject.com/).
+
+**This is a work in progress, I'm still writing up regularly for this project. So, stay tuned.**
+
+## Steps
+#### 1. Setup python & Django in Windows System
 <!---![](/images/WindowsSteps.png) -->
 <img src="images/WindowsSteps.png" width="500">
 
-### 2. Setup in Linux
+#### 2. Setup python & Django in Linux System
 <!---![](/images/carbon.png) -->
 <img src="images/carbon.png" width="500">
