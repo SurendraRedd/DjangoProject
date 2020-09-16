@@ -1,5 +1,5 @@
 # DjangoProject
-Sample Django Project Step by Step Approach.
+This Repository contains the detailed Step by Step Approach of Warehouse Management System.
 
 ### 1. Setup in Windows
 <!---![](/images/WindowsSteps.png) -->
