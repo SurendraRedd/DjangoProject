@@ -6,3 +6,6 @@
 
 #### 3. Loginpage
 <img src="images/Loginpage.png" width="500">
+
+#### 4. Article Details page
+<img src="images/ArticleDetails.png" width="500">
