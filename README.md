@@ -6,13 +6,14 @@ This Repository contains the detailed Step by Step Approach of Warehouse Managem
 
 ## Projects
 #### 1. Blogpost
+<img src="images/Homepage.png" width="400">
 #### 2. Bug Tracking Tool
 
 ## Steps
 #### 1. Setup python & Django in Windows System
 <!---![](/images/WindowsSteps.png) -->
-<img src="images/WindowsSteps.png" width="500">
+<img src="images/WindowsSteps.png" width="400">
 
 #### 2. Setup python & Django in Linux System
 <!---![](/images/carbon.png) -->
-<img src="images/carbon.png" width="500">
+<img src="images/carbon.png" width="400">
