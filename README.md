@@ -5,8 +5,10 @@ This Repository contains the detailed Step by Step Approach of Warehouse Managem
 **This repor is 'work in progress', I'm still writing up regularly for this project. So, stay tuned.**
 
 ## Projects
+
 #### 1. Blogpost
 <img src="images/Homepage.png" width="400">
+
 #### 2. Bug Tracking Tool
 
 ## Steps
