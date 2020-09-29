@@ -1,3 +1,6 @@
+# Blogpost
+This blogpost project is developed using django framework.
+
 #### 1. Steps
 <img src="images/Steps.png" width="500">
 
