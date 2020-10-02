@@ -7,9 +7,10 @@ This Repository contains the detailed Step by Step Approach of Warehouse Managem
 ## Projects
 
 #### 1. Blogpost
-<img src="images/Homepage.png" width="400">
+<img src="images/Homepage.png" width="700">
 
 #### 2. Bug Tracking Tool
+<img src="images/Bughomepage.png" width="700">
 
 ## Steps
 #### 1. Setup python & Django in Windows System
