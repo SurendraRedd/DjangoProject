@@ -2,7 +2,7 @@
 
 This Repository contains the detailed Step by Step Approach of Warehouse Management System Project created using [Python](https://www.python.org/), [Django](https://www.djangoproject.com/).
 
-**This repor is 'work in progress', I'm still writing up regularly for this project. So, stay tuned.**
+**This repo is 'work in progress', I'm still writing up regularly for this project. So, stay tuned.**
 
 ## Projects
 
