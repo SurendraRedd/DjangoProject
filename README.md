@@ -12,6 +12,9 @@ This Repository contains the detailed Step by Step Approach of Warehouse Managem
 #### 2. Bug Tracking Tool
 <img src="images/Bughomepage.png" width="700">
 
+#### 3. DJDT
+<img src="images/Final.png" width="700">
+
 ## Steps
 #### 1. Setup python & Django in Windows System
 <!---![](/images/WindowsSteps.png) -->
