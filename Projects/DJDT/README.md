@@ -229,15 +229,14 @@
             python [manage.py](http://manage.py) runserver
 
         - **Final - Output**
-
-            ![Django%20-%20Debug%20Tool%20bar%20Setup%20-%20Windows%207759ef5cca5645a59a9324dd3043b922/Untitled.png](Django%20-%20Debug%20Tool%20bar%20Setup%20-%20Windows%207759ef5cca5645a59a9324dd3043b922/Untitled.png)
+            <img src="images/Final.png" width="500">
 
     7. Folder Structure
         - **Structure**
 
-            ![Django%20-%20Debug%20Tool%20bar%20Setup%20-%20Windows%207759ef5cca5645a59a9324dd3043b922/Untitled%201.png](Django%20-%20Debug%20Tool%20bar%20Setup%20-%20Windows%207759ef5cca5645a59a9324dd3043b922/Untitled%201.png)
+             <img src="images/1.png" width="100">
 
-            ![Django%20-%20Debug%20Tool%20bar%20Setup%20-%20Windows%207759ef5cca5645a59a9324dd3043b922/Untitled%202.png](Django%20-%20Debug%20Tool%20bar%20Setup%20-%20Windows%207759ef5cca5645a59a9324dd3043b922/Untitled%202.png)
+             <img src="images/2.png" width="100">
 
 - **References**
     - [https://django-debug-toolbar.readthedocs.io/en/latest/installation.html#](https://django-debug-toolbar.readthedocs.io/en/latest/installation.html#)
