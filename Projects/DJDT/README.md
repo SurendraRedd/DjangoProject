@@ -1,6 +1,6 @@
 # Django - Debug Tool bar Setup - Windows
 
-<img src="images/Steps.png" width="700">
+<img src="images/Steps2.png" width="700">
 
 - **Prereqisites**
     - Python 3+ already installed.
