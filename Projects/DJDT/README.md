@@ -1,5 +1,7 @@
 # Django - Debug Tool bar Setup - Windows
 
+<img src="images/Steps.png" width="700">
+
 - **Prereqisites**
     - Python 3+ already installed.
     - Virtual Environment installed - **pip install virtualenv**
@@ -235,7 +237,6 @@
         - **Structure**
 
              <img src="images/1.png" width="100">
-
              <img src="images/2.png" width="100">
 
 - **References**
