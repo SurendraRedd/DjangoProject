@@ -243,6 +243,9 @@
     - [https://django-debug-toolbar.readthedocs.io/en/latest/installation.html#](https://django-debug-toolbar.readthedocs.io/en/latest/installation.html#)
     - [https://stackoverflow.com/questions/64013643/failed-to-load-module-script-the-server-responded-with-a-non-javascript-mime-ty](https://stackoverflow.com/questions/64013643/failed-to-load-module-script-the-server-responded-with-a-non-javascript-mime-ty)
     - [https://www.youtube.com/watch?v=GEogao-tUec&list=PLLRM7ROnmA9FgFlqn-HHBz0LJ62qJBwSw](https://www.youtube.com/watch?v=GEogao-tUec&list=PLLRM7ROnmA9FgFlqn-HHBz0LJ62qJBwSw)
-- **Git hub Link**
 
+- **Git hub Link**
     [https://github.com/SurendraRedd/DjangoProject/tree/master/Projects/DJDT](https://github.com/SurendraRedd/DjangoProject/tree/master/Projects/DJDT)
+    
+- **Git Book Link**
+    [https://app.gitbook.com/@surendraelectronics/s/ups/django-debug-tool-bar](https://app.gitbook.com/@surendraelectronics/s/ups/django-debug-tool-bar)
